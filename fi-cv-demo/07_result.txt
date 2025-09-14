@@ -1,0 +1,5 @@
+overall_cosine:0.830849
+left_eye_cosine:0.824369
+right_eye_cosine:0.754340
+nose_cosine:0.895182
+mouth_cosine:0.861718
